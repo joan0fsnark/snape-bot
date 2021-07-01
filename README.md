@@ -1,3 +1,3 @@
-# snape-bot
+# Reddit snape-bot
 
-## Seeks trigger word ('always') and replies with a random Snape quote.
+### Seeks trigger word ('always') and replies with a random Snape quote.
